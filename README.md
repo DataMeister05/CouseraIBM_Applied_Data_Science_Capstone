@@ -32,3 +32,11 @@ Model Evaluation: Evaluated each model's performance on the test data to identif
 ### Results
 Decision Tree Classifier: Achieved the highest accuracy of 0.9444 on the test set, making it the best-performing model.
 SVM and K-Nearest Neighbors: Both models attained an accuracy of 0.8333 on the test set.
+
+#### Data Sources:
+SpaceX API : https://api.spacexdata.com/v4/launches/past
+dataset_part_1.csv
+Wikipedia: List of Falcon 9 and Falcon Heavy launches (June 2021) : https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+Data after wrangling: dataset_part_2.csv
+Geographical data: spacex_launch_geo.csv
+Interactive data source: space_launch_dash.csv
